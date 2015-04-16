@@ -5,9 +5,13 @@
 
 ##Interview Prep
 [Big O Cheat Sheet](http://bigocheatsheet.com/)
+
 [Front End Dev Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
 [Data Structures Video by Berkeley](http://webcast.berkeley.edu/playlist#c,d,Computer_Science,-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
+
 Stanford Algorithms [Part 1](https://www.coursera.org/course/algo) | [Part 2](https://www.coursera.org/course/algo2)
+
 MIT Open Courseware [Video](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) | [PDF](https://mail.google.com/mail/u/0/#section_query/(in%3Ainbox+OR+label%3A%5Eiim)+is%3Aunread/14cb4d148317a3a3?compose=14cbf786362625e0&projector=1)
 
 ##Develop Your Skills
