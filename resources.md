@@ -5,6 +5,8 @@
 
 [Angel](https://angel.co/ )
 
+[Hired](http://join.hired.com/x/2CIIk1) - referenced through Zac
+
 ##Interview Prep
 [Big O Cheat Sheet](http://bigocheatsheet.com/)
 
@@ -38,3 +40,6 @@ Ideas for Small Coding Challenges
 Open Source Projects
   * [Code For America](http://www.codeforamerica.org/geeks/civicissues)
   * [Showcases](https://github.com/showcases) - popular repos around interesting topics
+
+##Your Presentation
+[Personal Website Checklist](https://gallery.mailchimp.com/2020bb2afd1eb1502e253bfcc/files/portfolio_checklist.pdf)
