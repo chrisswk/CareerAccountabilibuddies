@@ -43,3 +43,8 @@ Open Source Projects
 
 ##Your Presentation
 [Personal Website Checklist](https://gallery.mailchimp.com/2020bb2afd1eb1502e253bfcc/files/portfolio_checklist.pdf)
+
+[Tips on Github & Your Website](http://loufranco.com/blog/resume-tip-link-to-yoursite-github)
+
+##Advice
+[How to Get that First Web Development Job](http://imgiseverything.co.uk/articles/first-web-development-job/)
