@@ -5,7 +5,7 @@
 
 [Angel](https://angel.co/ )
 
-[Hired](http://join.hired.com/x/2CIIk1) - referenced through Zac
+[Hired](http://join.hired.com/x/2CIIk1) - referred through Zac
 
 ##Interview Prep
 [Big O Cheat Sheet](http://bigocheatsheet.com/)
@@ -32,6 +32,7 @@ General Skills
     4. [Practice the Basics 2](http://pcottle.github.io/learnGitBranching/) - 3-5 hours
     5. [Git Immersion](http://gitimmersion.com/)
     6. [Git Videos](http://git-scm.com/videos)
+  * [Team Treehouse](http://referrals.trhou.se/zacbarnes) - referred through Zac
 
 Ideas for Small Coding Challenges
   * [Practice App](http://tevko.github.io/practice/) | [Article on the App](http://www.creativebloq.com/app-design/ultimate-practice-app-developers-31514358)
