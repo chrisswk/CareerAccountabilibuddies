@@ -3,6 +3,7 @@ Resource for Career Accountability Group - Includes Questions and Solutions of A
 
 
 React Tutorial: http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript 
+React Lessons: https://egghead.io/technologies/react
 Code For America open source projects: http://www.codeforamerica.org/geeks/civicissues
 
 
