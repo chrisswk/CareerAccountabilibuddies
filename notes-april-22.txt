@@ -1,5 +1,10 @@
 Cari
-- gone
+- set up my domain for the website! cariwest.me, and hoping to also direct cariwest.com and cariwestbrook.com to the same website
+- finalize application & submit to 3 jobs (StitchFix, TrunkClub, and Beezwax)
+- don't volunteer for other projects & responsibilities
+- integrate some of the feedback I got for my website
+- make a commit every single day on GitHub! Hopefully by starting a new project (bobbyrightback.com or a tool for my aunt to use with autistic children in the classroom)
+- stretch: add a markdown editor to my blog
 
 Rebecca
 - not going to put p10 on rails - making it responsive
