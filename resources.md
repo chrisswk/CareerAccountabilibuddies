@@ -5,7 +5,7 @@
 
 [Angel](https://angel.co/ )
 
-[Hired](http://join.hired.com/x/2CIIk1) - referred through Zac
+[Hired](http://join.hired.com/x/xUjFIo)
 
 ##Interview Prep
 [Big O Cheat Sheet](http://bigocheatsheet.com/)
